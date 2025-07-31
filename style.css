@@ -18,7 +18,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url('background.gif');
+    background-image: url('Images/background.gif');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -191,7 +191,7 @@ header {
     font-family: 'Playfair', 'Lora';
     text-align: center;
     animation: fadeIn 2s ease-in-out;header {
-    background-image: url('background.gif');
+    background-image: url('Images/background.gif');
     background-attachment: fixed;
     background-position: center;
     background-repeat: repeat;
